@@ -1,1 +1,40 @@
+<!DOCTYPE html>
 
+<html>
+<head>
+  <title>Learning tutorial</title>
+</head>
+<body bgcolor="black" style="color:white">
+  <center>
+    <h1>Programming language</h1>
+    <p>Hello! you finally found a perfect webpage for your programming languages
+HTML</p>
+    <hr>
+    <h1>python</h1>
+    <img src="DCIM/images (9).jpeg">
+    <p>Known for its simplicity and readability, Python is often recommended for beginners. It's versatile and widely used in web development, data analysis, artificial intelligence, and more.</p>
+    <a href="https://youtu.be/6i3EGqOBRiU?si=YeiE_88Zzqov1HFG">click here python</a>
+    <hr>
+    <h1>Java</h1>
+    <img src="DCIM/images (10).jpeg">
+    <p>Java is a general-purpose programming language that's used in a variety of applications, from mobile apps (Android) to enterprise systems. It's known for its "write once, run anywhere" capability.
+</p>
+    <a href="https://youtu.be/A74TOX803D0?si=ozxeKwoO7n21FHbE">click here Java</a>
+    <hr>
+    <h1>C</h1>
+    <img src="DCIM/images (1).png">  
+    <p>C programming is a procedural programming language developed by Dennis Ritchie at Bell Labs in the early 1970s. It is a general-purpose language known for its efficiency, flexibility, and portability. C is widely used in system programming, embedded systems, application development, and more. It follows a structured approach, allowing programmers to organize their code into functions and modules. C provides low-level access to memory, making it suitable for system-level programming, while also offering high-level constructs for general-purpose programming.</p>
+    <a href="https://youtu.be/rLf3jnHxSmU?si=Jy4aYLWGmkCi4dag">click here c</a> 
+    <hr>
+    <h1>C++</h1>
+    <img src="DCIM/images (13).jpeg">
+    <p>A powerful and fast language often used in system/software development, game development, and high-performance applications.</p>
+    <a href="https://youtu.be/s0g4ty29Xgg?si=EvN41leSehgIJnpB">click here c++</a>
+    <h2>Thank you for visiting our page
+STAY TUNED!!! More to come</h2>
+    <hr>
+      
+    </center>
+
+</body>
+</html>
