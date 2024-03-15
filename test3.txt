@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>register</title>
+</head>
+<body>
+  <center>
+  <h1>Python Tutorial</h1>
+    <p>Python programming refers to the process of writing, testing, and maintaining code using the Python programming language. Python is a high-level, interpreted language known for its simplicity and readability, making it popular for various applications including web development, data analysis, artificial intelligence, scientific computing, and more.</p>
+    <hr>
+    <h3>Registration form</h3>
+    <form>
+      <table>
+        <tr>
+          <td>Name</td> <td> <input type="text"</td>
+        </tr>
+          <tr>
+            <td>Age</td> <td> <input type="number"</td>
+          </tr>
+            <tr>
+              <td>Email</td> <td> <input type="text"</td>
+            </tr>
+              <tr>
+                <td>select a course</td>
+                <td>
+                  <p>
+                    <select>
+                      <option>python</option>
+                      <option>SQL</option>
+                      <option>Java</option>
+                    </select>
+                  </p>
+                </td>
+              </tr>
+             
+     
+      </table>
+    </form>
+</body>
+</html>
