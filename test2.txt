@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Registration course</title>
+</head>
+<body>
+  <center>
+  <h1>Python Tutorial</h1>
+    <p>Python programming refers to the process of writing, testing, and maintaining code using the Python programming language. Python is a high-level, interpreted language known for its simplicity and readability, making it popular for various applications including web development, data analysis, artificial intelligence, scientific computing, and more.</p>
+    <hr>
+  </center>
+    <h2>python course</h2>
+  <ul>
+    <li>Pandas</li>
+    <li>flask</li>
+    <li>SQL</li>
+  </ul>
+  <hr>
+  <center>
+  <a href="course.html">course</a>
+  </center>
+
+</body>
+</html>
